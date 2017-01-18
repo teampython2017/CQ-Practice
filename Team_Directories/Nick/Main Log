@@ -1,0 +1,113 @@
+Total: 83
+
+Total completed: 0
+Total left: 83
+
+Difficulty                     Pts  Year
+----------------------------------------
+Easiest Problems
+----------------------------------------
+1. Piggy Bank				            2	  2012
+2. Who Sells More Newspapers?		3	  2012
+3. Numerical Order 			        3	  2012
+4. Hidden Message			          4	  2012
+5. Loan Ammortization			      5	  2012
+1: File I/O				              1	  2013
+2: Mirror, Mirror			          2   2013
+3: File Extensions			        3 	2013
+4: Sort Numbers				          3	  2013
+5: Software Removal			        4	  2013
+6: Golf Scores				          4	  2013
+7: Making Change			          5	  2013
+1: When I say Code[...]     	  2 	2014
+2: Deal the Cards 			        3	  2014
+3: Valley Sort 				          4   2014
+4: Pig Latin				            5 	2014
+1: Monogram				              5	  2015
+2: Grains of Sand			          5	  2015
+1: I’m Board				            5	  2016
+2: Change for the World			    5	  2016
+
+
+Easy Problems
+----------------------------------------
+6. Palindromes            			6	  2012
+7. Grade the Scantron		        7	  2012
+8. Around the Block		          7	  2012
+8: n choose k			              6	  2013
+9: The Three M's		            6	  2013
+10: IP Addresses		            7	  2013
+5: Book Worm			              6	  2014
+6: Product of a Grid		        7	  2014
+7: Morse Code			              8	  2014
+8: Rectangle Art		           10	  2014
+3: Leap Year			             10	  2015
+4: Is It Hot in Here?		       10  	2015
+5: Money, Money, Money!		     15  	2015
+3: What Triangle Is This?	     10 	2016
+4: Anagram Checker		         10   2016
+5: Mobile Miser			           15	  2016
+6: Who’s the Valedictorian?	   15	  2016
+
+
+Medium Problems
+----------------------------------------
+9: Almost the Same		          8 	2012
+10: Factorials			            9	  2012
+11: Camel Case			            8 	2013
+12: XML				                  8	  2013
+9: Check, Please!		           12	  2014
+10: All Aboard!			           14   2014
+6: Word Worm			             20	  2015
+7: Aerospace Intruders		     25	  2015
+8: Carrier Landing		         30  	2015
+7: Secret Message		           20	  2016
+8: Muddled Music		           20	  2016
+9: Navigating the World		     25	  2016
+10: GCAS			                 25 	2016
+11: Encryption			           30	  2016
+
+
+Hard Problems
+----------------------------------------
+11: Let’s Buy Land		         10 	2012
+12: Crack the Maze		         11	  2012
+13: Score the Test		         12  	2012
+14: Shortest Flight Path	     13  	2012
+13: Encode / Decode		         10  	2013
+14: Word Search			           10	  2013
+11: Spiral Text			           16	  2014
+12: Caesar-Scytale		         18	  2014
+9: Reflection			             35	  2015
+10: 40 – Love			             40	  2015
+11: Soundex Encoding		       45	  2015
+12: Message Integrity		       35	  2016
+13: Commutative Combo!		     40 	2016
+14: Turkey!			               45 	2016
+
+
+
+Hardest Problems
+----------------------------------------
+15: Pattern Part Play	         25	  2012
+16: Bizarro World Rover	       35	  2012
+17: Pushing Blocks	           30	  2012
+18: Stuck-At Faults	           25	  2012
+15: Authenticate Logins	       11	  2012
+16: Bingo!		                 14	  2013
+17: Thinning		               15	  2013
+13: Diamond Path	             25  	2014
+14: 3D Bingo		               14	  2014
+15: Pretty Print	             30	  2014
+16: Treasure Hunt	             60	  2014
+12: Hamming Code	             50	  2015
+13: Sky Scraper		             60	  2015
+14: CSI			                   70	  2015
+15: RPN			                   80	  2015
+15: Tower of Hanoi	           50	  2016
+16: Interstellar Travel	       55	  2016
+17: Honeycomb		               60	  2016
+
+
+
+
