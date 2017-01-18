@@ -1,2 +1,0 @@
-CalculateThat, 1156
-Software 42, 241

@@ -1,3 +1,0 @@
-ExamplePlane, Clear To Land!
-Freebird, Clear To Land!
-Lightning, Abort Landing!
