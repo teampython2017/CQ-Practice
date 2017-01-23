@@ -1,0 +1,11 @@
+Language: Java
+Skill: Syntax
+Skill specifics: java.util.Arrays syntax, particularly Arrays.sort, Collections.reverseOrder, Arrays.asList(array).contains(""), Arrays.equals(arr1, arr2)
+
+Problems completed:
+[J]1. Piggy Bank				            2	  2012
+[J]2. Who Sells More Newspapers?		3	  2012
+[J]3. Numerical Order 			        3	  2012
+[J]4. Hidden Message			          4	  2012
+
+Time taken: 49:23
